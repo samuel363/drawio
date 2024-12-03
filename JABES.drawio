@@ -65,9 +65,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pae7jYxlhDG4JWvC0xU8-5" value="&lt;div&gt;CourseActions&lt;br&gt;CourseDetailsActions&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fillColor=none;strokeColor=none;" parent="JA56gVAwGdrwxa1gbHRo-7" vertex="1" connectable="0">
+        <mxCell id="Pae7jYxlhDG4JWvC0xU8-5" value="&lt;div&gt;CURSOS&lt;br&gt;CourseActions&lt;br&gt;CourseDetailsActions&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fillColor=none;strokeColor=none;" parent="JA56gVAwGdrwxa1gbHRo-7" vertex="1" connectable="0">
           <mxGeometry x="-0.0522" y="3" relative="1" as="geometry">
-            <mxPoint x="3" y="-17" as="offset" />
+            <mxPoint x="3" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Pae7jYxlhDG4JWvC0xU8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="JA56gVAwGdrwxa1gbHRo-9" target="32zaV0xrlbz7ssy2_yb0-1" edge="1">
@@ -112,8 +112,8 @@
         <mxCell id="Pae7jYxlhDG4JWvC0xU8-4" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Servicios&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="280" y="150" width="60" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="bTu1x3ksz-68-GZxtZA3-5" value="&lt;div&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;LOGIN&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;CURSOS&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;ADMIN&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="273" width="70" height="60" as="geometry" />
+        <mxCell id="bTu1x3ksz-68-GZxtZA3-5" value="&lt;div&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;LOGIN&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;ADMIN&lt;br&gt;PAGOS&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="495" y="273" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
