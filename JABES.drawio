@@ -35,7 +35,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6vMbSwcWxyci_LYROvxe" name="TOBE">
-    <mxGraphModel dx="1111" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1010" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,18 +58,23 @@
           <mxGeometry x="100" y="380" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JA56gVAwGdrwxa1gbHRo-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#00CC00;fillColor=#e1d5e7;" parent="1" source="JA56gVAwGdrwxa1gbHRo-8" target="JA56gVAwGdrwxa1gbHRo-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="250" />
+              <mxPoint x="500" y="250" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Pae7jYxlhDG4JWvC0xU8-5" value="&lt;div&gt;CourseActions&lt;br&gt;CourseDetailsActions&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;LOGIN&lt;br&gt;CURSOS&lt;br&gt;ADMIN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JA56gVAwGdrwxa1gbHRo-7" vertex="1" connectable="0">
+        <mxCell id="Pae7jYxlhDG4JWvC0xU8-5" value="&lt;div&gt;CourseActions&lt;br&gt;CourseDetailsActions&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fillColor=none;strokeColor=none;" parent="JA56gVAwGdrwxa1gbHRo-7" vertex="1" connectable="0">
           <mxGeometry x="-0.0522" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="3" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Pae7jYxlhDG4JWvC0xU8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="JA56gVAwGdrwxa1gbHRo-9" target="32zaV0xrlbz7ssy2_yb0-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JA56gVAwGdrwxa1gbHRo-9" value="PROVEEDOR -&amp;nbsp;LMS&lt;br&gt;TeachRL" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="610" y="215" width="140" height="80" as="geometry" />
+          <mxGeometry x="610" y="210" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Pae7jYxlhDG4JWvC0xU8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="32zaV0xrlbz7ssy2_yb0-1" target="Il2RCWDoIj_dyQ-sbP2L-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -81,7 +86,16 @@
           <mxGeometry x="610" y="75" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Il2RCWDoIj_dyQ-sbP2L-1" value="academiajabes&lt;br&gt;.com" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="330" y="268" width="110" height="110" as="geometry" />
+          <mxGeometry x="260" y="268" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bTu1x3ksz-68-GZxtZA3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.166;entryY=0.875;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF9933;" edge="1" parent="1" target="JA56gVAwGdrwxa1gbHRo-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="275" as="sourcePoint" />
+            <mxPoint x="610" y="275" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="414" y="280" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="JA56gVAwGdrwxa1gbHRo-8" value="academiajabes&lt;br&gt;.com" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="304" y="195" width="110" height="110" as="geometry" />
@@ -97,6 +111,9 @@
         </mxCell>
         <mxCell id="Pae7jYxlhDG4JWvC0xU8-4" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Servicios&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="280" y="150" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bTu1x3ksz-68-GZxtZA3-5" value="&lt;div&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;LOGIN&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;CURSOS&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;ADMIN&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="273" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
