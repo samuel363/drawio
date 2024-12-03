@@ -57,10 +57,10 @@
         <mxCell id="JA56gVAwGdrwxa1gbHRo-6" value="Academica&lt;br&gt;(Universidad)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="100" y="380" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JA56gVAwGdrwxa1gbHRo-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;fillColor=#e1d5e7;" parent="1" source="JA56gVAwGdrwxa1gbHRo-8" target="JA56gVAwGdrwxa1gbHRo-9" edge="1">
+        <mxCell id="JA56gVAwGdrwxa1gbHRo-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#00CC00;fillColor=#e1d5e7;" parent="1" source="JA56gVAwGdrwxa1gbHRo-8" target="JA56gVAwGdrwxa1gbHRo-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Pae7jYxlhDG4JWvC0xU8-5" value="LOGIN&lt;br&gt;CURSOS&lt;br&gt;ADMIN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JA56gVAwGdrwxa1gbHRo-7" vertex="1" connectable="0">
+        <mxCell id="Pae7jYxlhDG4JWvC0xU8-5" value="&lt;div&gt;CourseActions&lt;br&gt;CourseDetailsActions&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;LOGIN&lt;br&gt;CURSOS&lt;br&gt;ADMIN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JA56gVAwGdrwxa1gbHRo-7" vertex="1" connectable="0">
           <mxGeometry x="-0.0522" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -69,7 +69,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JA56gVAwGdrwxa1gbHRo-9" value="PROVEEDOR -&amp;nbsp;LMS&lt;br&gt;TeachRL" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="520" y="210" width="140" height="80" as="geometry" />
+          <mxGeometry x="610" y="215" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Pae7jYxlhDG4JWvC0xU8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="32zaV0xrlbz7ssy2_yb0-1" target="Il2RCWDoIj_dyQ-sbP2L-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -78,7 +78,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="32zaV0xrlbz7ssy2_yb0-1" value="PROVEEDOR - UMAS&lt;br&gt;HABILON" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="520" y="70" width="140" height="80" as="geometry" />
+          <mxGeometry x="610" y="75" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Il2RCWDoIj_dyQ-sbP2L-1" value="academiajabes&lt;br&gt;.com" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="330" y="268" width="110" height="110" as="geometry" />
@@ -87,13 +87,13 @@
           <mxGeometry x="304" y="195" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Il2RCWDoIj_dyQ-sbP2L-2" value="Evol&lt;span style=&quot;background-color: initial;&quot;&gt;Campus&lt;/span&gt;&lt;div&gt;LMS - Habilon&lt;br&gt;(DEMOS)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="750" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="45" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Il2RCWDoIj_dyQ-sbP2L-3" value="miescuela&lt;br&gt;corporativa.com" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="750" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="125" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pae7jYxlhDG4JWvC0xU8-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;servicios" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
-          <mxGeometry x="640" y="250" width="60" height="70" as="geometry" />
+          <mxGeometry x="730" y="255" width="60" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Pae7jYxlhDG4JWvC0xU8-4" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Servicios&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="280" y="150" width="60" height="70" as="geometry" />
