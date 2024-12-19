@@ -110,6 +110,11 @@
             <mxPoint x="25" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="p_kIDCuBxLTKtonmLzgp-11" value="PAGOS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vJJpbdrFj39Fe-MM_Y9e-2">
+          <mxGeometry x="-0.0236" y="-3" relative="1" as="geometry">
+            <mxPoint x="65" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="p_kIDCuBxLTKtonmLzgp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.353;entryY=0.956;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#FF0000;" edge="1" parent="1" source="JA56gVAwGdrwxa1gbHRo-8" target="JA56gVAwGdrwxa1gbHRo-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -140,7 +145,7 @@
         <mxCell id="Pae7jYxlhDG4JWvC0xU8-4" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Servicios&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="280" y="150" width="60" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="bTu1x3ksz-68-GZxtZA3-5" value="&lt;div&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;LOGIN&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;ADMIN&lt;br&gt;PAGOS&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="bTu1x3ksz-68-GZxtZA3-5" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;LOGIN&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;ADMIN&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="480" y="255" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p_kIDCuBxLTKtonmLzgp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vJJpbdrFj39Fe-MM_Y9e-1" target="JA56gVAwGdrwxa1gbHRo-9">
